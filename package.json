@@ -1,0 +1,26 @@
+{
+"name": "weather-forfdecasting-web-application-1",
+"version": "1.0.0",
+"description": "This project aims to develop a web application for providing accurate weather forecasts to users. Leveraging data from various sources and utilizing machine learning models, the application delivers reliable predictions for different locations and timeframes.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/liliannelg463703/Weather-Forecasting-Web-Application.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "liliannelg463703",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
